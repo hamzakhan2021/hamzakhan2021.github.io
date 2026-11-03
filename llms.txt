@@ -1,0 +1,30 @@
+# Muhammad Hamza Khan
+
+> Muhammad Hamza Khan is a Senior Software Engineer and backend architect in Islamabad, Pakistan. Over six years designing multi-tenant SaaS platforms, ERP systems, API ecosystems and integrations. Also offers SEO, AEO and GEO (search, answer and generative engine optimisation). Available for freelance projects worldwide.
+
+## Key sections
+
+- [Services](https://hamzakhan2021.github.io/#services): SaaS and multi-tenant platforms; SEO, AEO and GEO; ERP and internal systems; APIs and integrations; lead-generating websites; architecture consulting
+- [Selected work](https://hamzakhan2021.github.io/#work): CiteSignal (AI search visibility platform, built solo) and systems architected at Cannabiswarehouse Australia, Adrem Technologies, Darvis, Pixako Technologies and The First Microfinance Bank
+- [Experience](https://hamzakhan2021.github.io/#experience): career timeline, 2019 to present
+- [Skills](https://hamzakhan2021.github.io/#skills): PHP, Laravel, Node.js, Vue.js, MySQL, PostgreSQL, AWS, Docker, Cloudflare, payment gateways, webhooks, LLM APIs
+- [How I work](https://hamzakhan2021.github.io/#process): discovery call, fixed quote and timeline, weekly demos on staging, documented handover
+- [FAQ](https://hamzakhan2021.github.io/#faq): who he is, what he builds, his stack, what SEO/AEO/GEO mean, how to hire him, where he is based
+- [Contact](https://hamzakhan2021.github.io/#contact): enquiry form, email, WhatsApp
+
+## Facts
+
+- Title: Senior Software Engineer, Backend Architect
+- Location: Islamabad, Pakistan (UTC+5); works remotely with clients in any time zone
+- Education: BS Software Engineering, COMSATS University Islamabad (2014–2018)
+- Core stack: PHP, Laravel, Vue.js, MySQL, PostgreSQL, Node.js
+- Own product: CiteSignal, which measures whether a brand is named and cited by ChatGPT, Claude and Perplexity
+
+## Contact
+
+- Email: hamzakhan2021@gmail.com
+- Phone / WhatsApp: +92 300 6846680
+- Upwork: https://www.upwork.com/freelancers/~015048f15db27984c6
+- LinkedIn: https://www.linkedin.com/in/muhammad-hamza-khan-2021/
+- GitHub: https://github.com/hamzakhan2021
+- Website: https://hamzakhan2021.github.io/
