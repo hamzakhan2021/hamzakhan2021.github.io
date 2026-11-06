@@ -10,7 +10,7 @@
 - [Skills](https://hamzakhan2021.github.io/#skills): PHP, Laravel, Node.js, Vue.js, MySQL, PostgreSQL, AWS, Docker, Cloudflare, payment gateways, webhooks, LLM APIs
 - [How I work](https://hamzakhan2021.github.io/#process): discovery call, fixed quote and timeline, weekly demos on staging, documented handover
 - [FAQ](https://hamzakhan2021.github.io/#faq): who he is, what he builds, his stack, what SEO/AEO/GEO mean, how to hire him, where he is based
-- [Not for every project](https://hamzakhan2021.github.io/#notfor): no unpaid trials, no hourly quotes, nothing shipped without documentation
+- [Not for every project](https://hamzakhan2021.github.io/#notfor): no unpaid trials, nothing shipped without documentation
 - [Contact](https://hamzakhan2021.github.io/#contact): enquiry form, email, WhatsApp
 
 ## Facts
